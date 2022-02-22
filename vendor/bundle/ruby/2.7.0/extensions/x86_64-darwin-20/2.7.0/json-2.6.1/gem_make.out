@@ -1,0 +1,13 @@
+current directory: /Users/nguyenxuanhieu/Documents/KHTN/React-Native/FoodHub/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/nguyenxuanhieu/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/nguyenxuanhieu/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220215-67802-1jc8oxh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nguyenxuanhieu/Documents/KHTN/React-Native/FoodHub/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/nguyenxuanhieu/Documents/KHTN/React-Native/FoodHub/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/nguyenxuanhieu/Documents/KHTN/React-Native/FoodHub/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
